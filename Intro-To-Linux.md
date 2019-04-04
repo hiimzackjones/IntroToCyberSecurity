@@ -22,6 +22,8 @@ You can open the terminal from the application menu, or from the terminal icon o
 
 Note that a user will have a ```$``` while the root user will have ```#```. 
 
+---
+
 To run a command in terminal, simply type the name of the program and press enter. 
 
 ```student@kali:~$ firefox```
@@ -32,6 +34,7 @@ Some applications take **arguments** as well. For example
 ```Bob@Hax0r:~$ touch myfile.txt```
 Will use the program touch to create a file called myfile.txt. 
 
+--- 
 To learn what a program does, or what arguments it may take, you can use man pages to read about that application. 
 
 ```root@kali:~# man touch```
